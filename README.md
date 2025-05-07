@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Dani12-Le
 
-<!--
-**Dani12-Le/Dani12-Le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador de software con enfoque en aplicaciones web. Aquí puedes ver un0 de mis proyectos:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚗 Auto Care Hub
+Sistema de reservas para lavado de autos.
+
+**Tecnologías**: Laravel, MySQL, Tailwind, DomPDF  
+📁 [Repositorio](https://github.com/Dani12-Le/Car_Wash.git)  
+📸 ![Vista previa](https://github.com/Dani12-Le/Car_wash/docs/images/inicio.png)
+
+---
+
+## 📫 Contacto
+
+- 💌 Correo: **tucorreo@example.com**
+- 💼 LinkedIn: [Tu Perfil](https://linkedin.com/in/tuusuario)
