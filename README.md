@@ -9,11 +9,10 @@ Sistema de reservas para lavado de autos.
 
 **Tecnologías**: Laravel, MySQL, Tailwind, DomPDF  
 📁 [Repositorio](https://github.com/Dani12-Le/Car_Wash.git)  
-📸 ![Vista previa](https://github.com/Dani12-Le/Car_wash/docs/images/inicio.png)
+📸 ![Vista previa](https://github.com/Dani12-Le/Car_Wash/docs/images/inicio.png)
 
 ---
 
 ## 📫 Contacto
 
-- 💌 Correo: **tucorreo@example.com**
-- 💼 LinkedIn: [Tu Perfil](https://linkedin.com/in/tuusuario)
+- 💌 Correo: **Danielaleonc8@gmail.com**
