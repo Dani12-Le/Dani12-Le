@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Dani12-Le
+# 👋 ¡Hola! Soy Daniela
 
 Soy desarrollador de software con enfoque en aplicaciones web. Aquí puedes ver un0 de mis proyectos:
 
