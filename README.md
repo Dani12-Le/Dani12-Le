@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Daniela
 
-Soy desarrollador de software con enfoque en aplicaciones web. Aquí puedes ver un0 de mis proyectos:
+Soy desarrollador de software con enfoque en aplicaciones web. Aquí puedes ver uno de mis proyectos:
 
 ---
 
