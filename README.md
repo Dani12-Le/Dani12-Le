@@ -1,4 +1,4 @@
-# 🧑‍💻 Portafolio de Daniela
+# Portafolio de Daniela
 
 ## 👋 ¡Hola! Soy Daniela
 
